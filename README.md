@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharmi Manikandan  
+# 👋 Hi, I'm Sharmi Manikandan✨  
 
 🎯 Aspiring **Data Science & Data Analytics Professional**  
 📊 Passionate about turning data into insights  
