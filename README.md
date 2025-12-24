@@ -1,27 +1,69 @@
-# Hi there, I'm Sharmi Manikandan 👋
-### Data Analyst | Python | SQL | Power BI
+# 👋 Hi, I'm Sharmi Manikandan  
 
-Welcome to my GitHub! I love transforming data into actionable insights and building analytics solutions.  
-
----
-
-## 🛠️ Technologies & Tools
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+🎯 Aspiring **Data Science & Data Analytics Professional**  
+📊 Passionate about turning data into insights  
+💼 Internship experience in Data Science & Data Analytics  
 
 ---
 
-## 🔗 Connect with me
+## 🧑‍💼 About Me
+I am a focused and motivated learner with a strong interest in data-driven problem solving.  
+I enjoy exploring data, understanding patterns, and building meaningful solutions using technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmi-manikandan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharmi-Manikandan)
+I believe in **listening carefully, learning continuously, and growing consistently**.
 
 ---
 
+## 🛠️ Skills & Technologies
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📊 Data Science & Analytics
+- Data Cleaning & Exploratory Data Analysis (EDA)  
+- Data Visualization & Reporting  
+- Statistical Analysis  
+- Machine Learning Fundamentals  
+
+---
+
+## 💼 Internship Experience
+- Practical exposure to **Data Science & Data Analytics**
+- Worked with real-world datasets and dashboards
+- Strengthened analytical and problem-solving skills
+
+---
+
+## 📂 Projects
+Explore my repositories for:
+- Data Analysis Projects  
+- Visualization & Reporting  
+- SQL & Python-based Insights  
+
+🔗 **GitHub:** https://github.com/Sharmi-Manikandan  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharmi-manikandan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharmi%20Manikandan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sharmi-Manikandan">
+    <img src="https://img.shields.io/badge/GitHub-Sharmi--Manikandan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ **I am someone who listens deeply, learns constantly, and improves every day —  
+because true growth begins with understanding.**
 
 
