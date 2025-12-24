@@ -10,8 +10,6 @@
 I am a focused and motivated learner with a strong interest in data-driven problem solving.  
 I enjoy exploring data, understanding patterns, and building meaningful solutions using technology.
 
-I believe in **listening carefully, learning continuously, and growing consistently**.
-
 ---
 
 ## 🛠️ Skills & Technologies
